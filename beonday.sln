@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beonday.App", "Beonday.App\Beonday.App.csproj", "{A0162CC5-FA4A-4E37-BDB6-3177FBB6B2E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beonday.Web", "Beonday.Web\Beonday.Web.csproj", "{FA142480-DEC1-4A51-B577-AB11704CA771}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0162CC5-FA4A-4E37-BDB6-3177FBB6B2E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0162CC5-FA4A-4E37-BDB6-3177FBB6B2E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0162CC5-FA4A-4E37-BDB6-3177FBB6B2E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0162CC5-FA4A-4E37-BDB6-3177FBB6B2E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA142480-DEC1-4A51-B577-AB11704CA771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA142480-DEC1-4A51-B577-AB11704CA771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA142480-DEC1-4A51-B577-AB11704CA771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA142480-DEC1-4A51-B577-AB11704CA771}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
